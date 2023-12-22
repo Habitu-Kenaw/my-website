@@ -98,7 +98,7 @@ nav ul li a:hover::after{
 /*--------------------about---------------------*/
 #about{
 	padding: 50px 25px;
-	margin-top: -50px;
+	margin-top: -100px;
 	height: 75%;
 	color: black;
 	background: #34495E;
