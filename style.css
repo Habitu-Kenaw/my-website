@@ -318,8 +318,8 @@ nav ul{
 	position: fixed;
 	top: 0;
 	right: -200px;
-	width: 200px;
-	height: 100vh;
+	width: 170px;
+	height: 255px;
 	padding-top: 50px;
 	z-index: 2;
 	transition: right 0.5s;
