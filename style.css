@@ -44,6 +44,7 @@ nav{
 .navbar{
 	 width: 100%;
 	padding: 10PX 10%;
+	padding-right: 40px;
 	margin-top: -8px;
 }
 .navbar .logo a span{
