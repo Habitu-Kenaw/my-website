@@ -283,6 +283,9 @@ nav ul li a:hover::after{
 	padding-top: 10px;
 	text-align: center;
 	color: white;
+	font-weight: bold;
+	border-radius: 6px;
+	border: 2px solid #fa5b0f;
 }
 .btn.btn2:hover{
     color: crimson;
